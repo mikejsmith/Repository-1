@@ -1,0 +1,12 @@
+---
+title: 'R project #1'
+output: word_document
+---
+
+```{r}
+X=c(1,3,7,11,67)
+new=X*3
+plot(new)
+```
+
+I created a vector and multiplied it by 3. I then created a scatterplot of the values of the vector for each index 1 to 5.
